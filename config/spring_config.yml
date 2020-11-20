@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: this_is_application_name
